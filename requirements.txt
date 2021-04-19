@@ -1,4 +1,4 @@
-git+https://github.com/IntenseScorpio/Intensity.py
+git+https://github.com/IntenseScorpio/Intensity.py.git
 discord
 discord.ext
 asyncio
