@@ -13,7 +13,7 @@ from os import system
 f = open("rules.txt","r")
 owner='505304426697981970'
 rules = f.readlines()
-token = "Nzk0OTQ5MTgwNDU1NzgwMzgy.X_CQHg.1l3ILPkgNiBmk9Aix0l3fyZV814" 
+token = "Nzk0OTQ5MTgwNDU1NzgwMzgy.X_CQHg.vici00S9RVn5QdH10-qR4e_3zwM" 
 status = ['?help','Trying to play music','Chilin']
 bot_prefix = '?'
 filtered_words=[]
