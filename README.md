@@ -1,2 +1,3 @@
 # Intensity.py
-Im learning python and making this bot..
+chilin n codin...
+
